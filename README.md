@@ -1,7 +1,7 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed by Wei-Chen CHU under a
-[Creative Commons Attribution 4.0 International License][cc-by] unless mentioned otherwise..
+[Creative Commons Attribution 4.0 International License][cc-by] unless mentioned otherwise.
 
 
 
