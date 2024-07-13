@@ -11,4 +11,4 @@ This work is licensed by Wei-Chen CHU under a
 
 Full PowerPoint files is available on [ZENODO](https://zenodo.org/records/12736727)
 
-Full video recording are available on [YouTube (Speak in Chinese](https://www.youtube.com/watch?v=cnfW9vPQ_XI)
+Full video recording are available on [YouTube (speak in Chinese)](https://www.youtube.com/watch?v=cnfW9vPQ_XI)
