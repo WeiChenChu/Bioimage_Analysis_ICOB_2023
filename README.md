@@ -10,6 +10,7 @@ This work is licensed by Wei-Chen CHU under a
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 Full PowerPoint files is available on [ZENODO](https://zenodo.org/records/12736727)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12736727.svg)](https://doi.org/10.5281/zenodo.12736727)
 
 Full video recording are available on [YouTube (speak in Chinese)](https://www.youtube.com/watch?v=cnfW9vPQ_XI)
 
