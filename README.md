@@ -10,4 +10,5 @@ This work is licensed by Wei-Chen CHU under a
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 [Full PowerPoint files is available on ZENODO](https://zenodo.org/records/12736727)
+
 [Full Video (speak in Chinese) are available on YouTube](https://www.youtube.com/watch?v=cnfW9vPQ_XI)
